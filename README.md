@@ -1,3 +1,7 @@
+https://github.com/Dinesh7318/Ex-07-Feature-Selection.git
+
+https://colab.research.google.com/drive/12twPgAK7QG0bQUaaj8ibARdPZbiBxFlN?usp=sharing
+
 # Ex-07-Feature-Selection
 ## AIM
 
